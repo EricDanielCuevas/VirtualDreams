@@ -1,9 +1,9 @@
 # VirtualDreams
-##trabajo practico consultor salesforce
-##Evaluación Práctica
+## trabajo practico consultor salesforce
+## Evaluación Práctica
 
 
-###Punto 2
+#### Punto 2
 
 1- 	Un servidor HTTP es un software informático 
 	que se encarga de procesar las aplicaciones del lado del servidor.
@@ -67,7 +67,7 @@
 	La key Content-Type es para aclarar de que tipo/formato es el contenido que envío en mi solicitud o respuesta.
 
 
-###Punto 3
+#### Punto 3
 
 	La diferencia se encuenta en el ultimo registro del body , ya que en el [punto 1]()me traía los registros  existentes 
 	y en el [punto 3]()  además me trae el registro que generé con mi peticion realizada en el [punto 2]().	
