@@ -69,7 +69,7 @@
 
 #### Punto 3
 
-La diferencia se encuenta en el ultimo registro del body , ya que en el ![punto 1](https://github.com/EricDanielCuevas/VirtualDreams/blob/f39f48161d68a83830d004d9f4c70573cc1ecdf6/punto%203%20item%201.PNG?raw=true) me traía los registros  existentes y en el ![punto 3] ()  además me trae el registro que generé con mi peticion realizada en el ![punto 2]() .	
+La diferencia se encuenta en el ultimo registro del body , ya que en el punto 1 me traía los registros existentes ![punto 1](https://github.com/EricDanielCuevas/VirtualDreams/blob/f39f48161d68a83830d004d9f4c70573cc1ecdf6/punto%203%20item%201.PNG?raw=true)  y en el punto 3 ![punto 3] ()  además me trae el registro que generé con mi peticion realizada en el ![punto 2]() .	
 
 #### Punto 4
 https://trailblazer.me/id/ericcuevas
